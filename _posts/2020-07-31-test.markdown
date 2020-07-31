@@ -1,0 +1,10 @@
+---  
+layout: post  
+title: "related Post 테스트"  
+subtitle: "테스트"  
+categories: talk
+tags: 블로그 소프트웨어 C 대구소프트웨어고등학교 소프트웨어고등학교 대소고
+comments: true  
+---  
+
+# 테스트

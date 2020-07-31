@@ -48,7 +48,7 @@ google_analytics:    UA-174146803-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    theorydb
+disqus_shortname:    my-blog-0z1VHOeK1z
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2020.07. by JaeHyeon'

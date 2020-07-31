@@ -5,7 +5,7 @@ subtitle: "첫번째 글"
 categories: talk
 tags: 블로그 소프트웨어 C 대구소프트웨어고등학교 소프트웨어고등학교 대소고
 comments: true  
-header-img: img/review/review-book-shift-ahead-1.png
+header-img: img/postimg/2020-07-31-first-post.JPG
 ---  
 
 # 블로그 첫번째 글!
