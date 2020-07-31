@@ -1,0 +1,13 @@
+---  
+layout: post  
+title: "블로그 첫 번째 글"  
+subtitle: "첫번째 글"  
+categories: talk
+tags: 블로그 소프트웨어 C 대구소프트웨어고등학교 소프트웨어고등학교 대소고
+comments: true  
+header-img: img/review/review-book-shift-ahead-1.png
+---  
+
+# 블로그 첫번째 글!
+
+### 학교에서 html/css 특강을 들은 후 블로그를 만들었습니다. 블로그를 만들고 글을 써보고 싶었는데 이렇게 글을 쓸 수 있게되서 좋습니다 ㅎㅎ

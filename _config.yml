@@ -2,32 +2,32 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               TheoryDB
+title:               Jae Hyeon
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://theorydb.github.io
+url:                 https://limjh0513.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "All roads lead to data."
+tagline:             "소프트웨어 개발자가 꿈인 한 학생의 블로그..."
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Data science enthusiast and addict :)
+  대구에 살고 있는, 대구소프트웨어고등학교에 다니는 개발자가 되고 싶은 학생입니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
-  email:             theorydb@gmail.com
+  name:              Jae Hyeon Lim
+  email:             ljh040513@naver.com
 
 # Fallback image and color
 image:               /assets/img/main_left.jpg
-color:               '#4f86aa'
+color:               '#3b83ad'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    theorydb
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2019.04. by theorydb'
+copyright:           '&copy; 2020.07. by JaeHyeon'
 
 # Format of the permalinks
 permalink:           pretty

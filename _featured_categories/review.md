@@ -4,7 +4,7 @@ title: Review
 slug: review
 menu: true
 submenu: false
-order: 6
+order: 3
 description: >
-  IT 서적 및 그 외 다양한 서적을 읽고 작성한 리뷰 모음.
+  구매한 물건이나 갔다온 곳에 대한 리뷰
 ---
